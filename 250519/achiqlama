@@ -1,0 +1,6 @@
+Yaxshidi, eslinde istediklerim ishleyir
+
+recomended:
+
+1.password inputlarindan blur olunanda ve keyup olunanda da yoxlama etseydin yaxshi olardi
+2.pass_input1 ve pass_input2 kimi variable-ler vermemeye chalish. Meselen; password ve passwordConfirm kimi adlandira bilerdin
